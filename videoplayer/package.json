@@ -23,7 +23,7 @@
     "gulp-uglify": "^1.5.1",
     "uglify-js": "^2.6.2",
     "through2": "^2.0.1",
-    "deap": "^1.0.0",
+    "deap": "^1.0.1",
     "gulp-util": "^3.0.7",
     "fancy-log": "^1.2.0",
     "vinyl-sourcemaps-apply": "^0.2.1",

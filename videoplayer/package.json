@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/darkylmnx/jQuery-Youtube-Url-To-FullScreen-Video-Lightbox#readme",
   "devDependencies": {
-    "gulp": "~3.9.1",
+    "gulp": "~4.0.2",
     "gulp-jshint": "^2.0.0",
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^1.5.1",

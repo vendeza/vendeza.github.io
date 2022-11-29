@@ -1,0 +1,16 @@
+{
+        "applinks": {
+            "apps": [],
+            "details": [
+                {
+                    "appID": "QUW9MC22DC.pro.ibolit.iBolitPatient",
+                    "paths": [ "/auth"]
+                },
+		{
+                    "appID": "EQHXZ8M8AV.com.google.Dzimuth",
+                    "paths": [ "/maps"]
+                }
+            ]
+        }
+}
+

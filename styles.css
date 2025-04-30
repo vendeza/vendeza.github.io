@@ -45,3 +45,12 @@ p {
         padding: 20px;
     }
 }
+
+a {
+    text-decoration: none;
+    color: #007aff;
+    font-size: 1.2em;
+}
+a:hover {
+    text-decoration: underline;
+}
